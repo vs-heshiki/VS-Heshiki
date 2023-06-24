@@ -20,7 +20,7 @@
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/VS-Heshiki)
 
 ### Technologies & Frameworks
-[![Node](https://img.shields.io/badge/node-black?style=for-the-badge&logo=node)](https://github.com/VS-Heshiki)
+[![Node](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/VS-Heshiki)
 [![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/VS-Heshiki)
 [![Fastify](https://img.shields.io/badge/fastify-black?style=for-the-badge&logo=fastify)](https://github.com/VS-Heshiki)
 [![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)](https://github.com/VS-Heshiki)

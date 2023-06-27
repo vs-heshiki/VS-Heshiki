@@ -7,6 +7,9 @@
         Currently learning NodeJS and in the future React.<br>
         Always studying, always growing!<br>
     </i><br>
+    <a href="https://drive.google.com/file/d/12sggGNkEr00JV9xfYtWg3Jb_xY5U4cVq/view?usp=sharing">
+        <img src="https://img.shields.io/badge/Google-Cloud-blue?style=flat-square&logo=google-cloud" alt="Curriculum">
+    </a>
     <a href="https://www.linkedin.com/in/victorheshiki/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>

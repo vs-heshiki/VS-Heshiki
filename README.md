@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys! <img src="https://www.pngkit.com/png/full/642-6425255_the-neighbourhood-logo-png.png" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, guys! <img src="https://im4.ezgif.com/tmp/ezgif-4-8ea6776e68.gif" width="28px" alt="The Neighbourhood"></h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>

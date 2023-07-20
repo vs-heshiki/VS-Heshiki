@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Victor.<br>
-        Currently learning NodeJS and in the future React.<br>
+        Currently developing in NodeJS and React.<br>
         Always studying, always growing!<br>
     </i><br>
     <a href="https://drive.google.com/file/d/12sggGNkEr00JV9xfYtWg3Jb_xY5U4cVq/view?usp=sharing">
@@ -26,9 +26,11 @@
 [![Node](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/VS-Heshiki)
 [![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/VS-Heshiki)
 [![Fastify](https://img.shields.io/badge/fastify-black?style=for-the-badge&logo=fastify)](https://github.com/VS-Heshiki)
-[![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)](https://github.com/VS-Heshiki)
+[![React](https://img.shields.io/badge/react.js-black?style=for-the-badge&logo=react)](https://github.com/VS-Heshiki)
+[![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)](https://github.com/VS-Heshiki)
 [![Vitest](https://img.shields.io/badge/vitest-black?style=for-the-badge&logo=vitest)](https://github.com/VS-Heshiki)
-[![NestJs](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs)](https://github.com/VS-Heshiki)
+[![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs)](https://github.com/VS-Heshiki)
+[![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)](https://github.com/VS-Heshiki)
 [![Prisma](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)](https://github.com/VS-Heshiki)
 [![TypeORM](https://img.shields.io/badge/typeorm-black?style=for-the-badge&logo=typeorm)](https://github.com/VS-Heshiki)
 [![Sequelize](https://img.shields.io/badge/sequelize-black?style=for-the-badge&logo=sequelize)](https://github.com/VS-Heshiki)

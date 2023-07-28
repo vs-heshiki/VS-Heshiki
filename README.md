@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Victor.<br>
-        Currently developing in NodeJS and React.<br>
+        Currently developing with NodeJS and React.<br>
         Always studying, always growing!<br>
     </i><br>
     <a href="https://drive.google.com/file/d/1Dqu23usofPmNOCbw0fp5oC56pm0dFSdx/view?usp=drivesdk">

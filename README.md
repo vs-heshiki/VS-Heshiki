@@ -7,7 +7,7 @@
         Currently developing with NodeJS and React.<br>
         Always studying, always growing!<br>
     </i><br>
-    <a href="https://drive.google.com/file/d/1OihA5I5huFQ-gnYtC66_uNXeekJM8uy-/view?usp=sharing">
+    <a href="https://drive.google.com/file/d/1N_bXMuraFrU4R6_K8g7zjQ21nujrR8Rr/view?usp=sharing">
         <img src="https://img.shields.io/badge/Curriculum-blue?style=flat-square&logo=google-cloud&logoColor=white" alt="Curriculum">
     </a>
     <a href="https://www.linkedin.com/in/victorheshiki/">

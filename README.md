@@ -7,8 +7,11 @@
         Currently developing with NodeJS and React.<br>
         Always studying, always growing!<br>
     </i><br>
+    <a href="https://drive.google.com/file/d/12OacpwrC2C9yN-KV9geYBzRNqW0MZCJR/view?usp=sharing">
+        <img src="https://img.shields.io/badge/Curriculum-blue?style=flat-square&logo=google-cloud&logoColor=white" alt="Curriculum Android">
+    </a>
     <a href="https://drive.google.com/file/d/1N_bXMuraFrU4R6_K8g7zjQ21nujrR8Rr/view?usp=sharing">
-        <img src="https://img.shields.io/badge/Curriculum-blue?style=flat-square&logo=google-cloud&logoColor=white" alt="Curriculum">
+        <img src="https://img.shields.io/badge/Curriculum-blue?style=flat-square&logo=google-cloud&logoColor=white" alt="Curriculum Web">
     </a>
     <a href="https://www.linkedin.com/in/victorheshiki/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -19,10 +22,12 @@
 </p>
 
 ### Languages
+[![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)](https://github.com/VS-Heshiki)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/VS-Heshiki)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/VS-Heshiki)
 
 ### Technologies & Frameworks
+[![Android](https://img.shields.io/badge/android-black?style=for-the-badge&logo=android)](https://github.com/VS-Heshiki)
 [![Node](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/VS-Heshiki)
 [![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/VS-Heshiki)
 [![Fastify](https://img.shields.io/badge/fastify-black?style=for-the-badge&logo=fastify)](https://github.com/VS-Heshiki)

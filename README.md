@@ -8,7 +8,7 @@
         Always studying, always growing!<br>
     </i><br>
     <a href="https://drive.google.com/file/d/1HdHjL1I5wIz8PYXZnrttuOWLYE8y8_4o/view?usp=sharing">
-        <img src="https://img.shields.io/badge/Curriculum?style=flat-square&logo=google-cloud&logoColor=white" alt="Curriculum">
+        <img src="https://img.shields.io/badge/Curriculum-blue?style=flat-square&logo=google-cloud&logoColor=white" alt="Curriculum">
     </a>
     <a href="https://www.linkedin.com/in/victorheshiki/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">

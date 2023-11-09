@@ -7,11 +7,8 @@
         Currently developing with Kotlin, NodeJS and React.<br>
         Always studying, always growing!<br>
     </i><br>
-    <a href="https://drive.google.com/file/d/1t-X0K4qs4AXmLZ52x5-hniSXng4eb7eX/view?usp=sharing">
-        <img src="https://img.shields.io/badge/Curriculum_Android-blue?style=flat-square&logo=google-cloud&logoColor=white" alt="Curriculum Android">
-    </a>
-    <a href="https://drive.google.com/file/d/1N_bXMuraFrU4R6_K8g7zjQ21nujrR8Rr/view?usp=sharing">
-        <img src="https://img.shields.io/badge/Curriculum_Web-blue?style=flat-square&logo=google-cloud&logoColor=white" alt="Curriculum Web">
+    <a href="https://drive.google.com/file/d/1HdHjL1I5wIz8PYXZnrttuOWLYE8y8_4o/view?usp=sharing">
+        <img src="https://img.shields.io/badge/Curriculum?style=flat-square&logo=google-cloud&logoColor=white" alt="Curriculum">
     </a>
     <a href="https://www.linkedin.com/in/victorheshiki/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">

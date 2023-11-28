@@ -1,5 +1,5 @@
 <h1 align="center">Hi, guys! <img src="https://www.pngkit.com/png/full/642-6425255_the-neighbourhood-logo-png.png" width="28px" alt="👋"></h1>
-<a href="#"><img align='right' src='https://media.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif' width='80'></a>
+
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
@@ -35,6 +35,7 @@
 
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/VS-Heshiki)
+<a href="#"><img align='right' src='https://media.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif' width='80'></a>
 
 <details>
 <p align="center">

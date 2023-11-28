@@ -1,4 +1,5 @@
 <h1 align="center">Hi, guys! <img src="https://www.pngkit.com/png/full/642-6425255_the-neighbourhood-logo-png.png" width="28px" alt="👋"></h1>
+<a href="#"><img align='right' src='https://media.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif' width='80'></a>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>

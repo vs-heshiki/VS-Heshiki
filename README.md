@@ -8,7 +8,6 @@
         Currently developing with Java, NodeJS and React.<br>
         Always studying, always growing!<br>
     </i><br>
-    
     <a href="https://www.linkedin.com/in/victorheshiki/" text-decoration:none><img src="https://img.shields.io/badge/LinkedIn-6b3fa0?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:vs_heshiki@hotmail.com"><img src="https://img.shields.io/badge/-Email-6b3fa0?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail"></a>
 </p>

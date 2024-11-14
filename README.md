@@ -5,7 +5,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Victor.<br>
-        Currently developing with Java, NodeJS and React.<br>
+        Currently developing with NodeJS and React.<br>
         Always studying, always growing!<br>
     </i><br>
     <a href="https://www.linkedin.com/in/victorheshiki/" text-decoration:none><img src="https://img.shields.io/badge/LinkedIn-6b3fa0?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
@@ -13,12 +13,10 @@
 </p>
 
 ### Languages
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/VS-Heshiki)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/VS-Heshiki)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/VS-Heshiki)
 
 ### Technologies & Frameworks
-[![Springboot](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)](https://github.com/VS-Heshiki)
 [![Node](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/VS-Heshiki)
 [![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/VS-Heshiki)
 [![Fastify](https://img.shields.io/badge/fastify-black?style=for-the-badge&logo=fastify)](https://github.com/VS-Heshiki)

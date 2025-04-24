@@ -31,7 +31,7 @@
 
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/VS-Heshiki)
-[![Machintosh](https://img.shields.io/badge/Machintosh-black?style=for-the-badge&logo=Machintosh)](https://github.com/VS-Heshiki)
+[![Mac](https://img.shields.io/badge/Mac-black?style=for-the-badge&logo=Machintosh)](https://github.com/VS-Heshiki)
 [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux)](https://github.com/VS-Heshiki) src='https://media.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif' width='80'></a>
 
 <details>

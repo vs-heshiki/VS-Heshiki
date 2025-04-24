@@ -5,7 +5,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Victor.<br>
-        Currently developing with NodeJS and React.<br>
+        Currently developing with NodeJS.<br>
         Always studying, always growing!<br>
     </i><br>
     <a href="https://www.linkedin.com/in/victorheshiki/" text-decoration:none><img src="https://img.shields.io/badge/LinkedIn-6b3fa0?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
@@ -20,19 +20,19 @@
 [![Node](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/VS-Heshiki)
 [![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/VS-Heshiki)
 [![Fastify](https://img.shields.io/badge/fastify-black?style=for-the-badge&logo=fastify)](https://github.com/VS-Heshiki)
-[![React](https://img.shields.io/badge/react.js-black?style=for-the-badge&logo=react)](https://github.com/VS-Heshiki)
-[![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)](https://github.com/VS-Heshiki)
 [![Vitest](https://img.shields.io/badge/vitest-black?style=for-the-badge&logo=vitest)](https://github.com/VS-Heshiki)
 [![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs)](https://github.com/VS-Heshiki)
 [![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)](https://github.com/VS-Heshiki)
 [![Prisma](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)](https://github.com/VS-Heshiki)
 [![TypeORM](https://img.shields.io/badge/typeorm-black?style=for-the-badge&logo=typeorm)](https://github.com/VS-Heshiki)
 [![Sequelize](https://img.shields.io/badge/sequelize-black?style=for-the-badge&logo=sequelize)](https://github.com/VS-Heshiki)
+[![PostgresDB](https://img.shields.io/badge/PostgresDB-black?style=for-the-badge&logo=PostgresDB)](https://github.com/VS-Heshiki)
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/VS-Heshiki)
 
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/VS-Heshiki)
-<a href="#"><img align='right' src='https://media.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif' width='80'></a>
+[![Machintosh](https://img.shields.io/badge/Machintosh-black?style=for-the-badge&logo=Machintosh)](https://github.com/VS-Heshiki)
+[![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux)](https://github.com/VS-Heshiki) src='https://media.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif' width='80'></a>
 
 <details>
 <p align="center">

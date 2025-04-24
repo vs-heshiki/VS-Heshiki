@@ -26,14 +26,13 @@
 [![Prisma](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)](https://github.com/VS-Heshiki)
 [![TypeORM](https://img.shields.io/badge/typeorm-black?style=for-the-badge&logo=typeorm)](https://github.com/VS-Heshiki)
 [![Sequelize](https://img.shields.io/badge/sequelize-black?style=for-the-badge&logo=sequelize)](https://github.com/VS-Heshiki)
-[![PostgresSQL](https://img.shields.io/badge/PostgresSQL-black?style=for-the-badge&logo=PostgresSQL)](https://github.com/VS-Heshiki)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL)](https://github.com/VS-Heshiki)
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/VS-Heshiki)
 
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/VS-Heshiki)
 [![MacOS](https://img.shields.io/badge/Macos-black?style=for-the-badge&logo=MacOS)](https://github.com/VS-Heshiki)
 [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux)](https://github.com/VS-Heshiki)
-<a href="#"><img align=right' src='https://media.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif' width='80'></a> 
 
 <details>
 <p align="center">

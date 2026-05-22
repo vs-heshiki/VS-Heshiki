@@ -1,9 +1,6 @@
 <h1 align="center">Hi, guys!</h1>
-
-
-
 <p align="center">
-    <a href="#"><img align="center" src='https://i.redd.it/mowc7hjwx0pe1.gif' width='120'></a>
+    <a href="#"><img align="center" src='https://i.redd.it/mowc7hjwx0pe1.gif' width='120'></a><br><br>
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Victor.<br>

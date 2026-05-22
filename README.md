@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys!</h1> <a href="#"><img align='right' src='https://i.redd.it/mowc7hjwx0pe1.gif' width='120'></a>
+<h1 align="center">Hi, guys!</h1> <a href="#"><img align='center' src='https://i.redd.it/mowc7hjwx0pe1.gif' width='120'></a>
 
 
 

@@ -1,5 +1,5 @@
-<h1 align="center">Hi, guys! <img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fmowc7hjwx0pe1.gif" width="28px" alt="👋"></h1>
-<a href="#"><img align='right' src='https://i.redd.it/mowc7hjwx0pe1.gif' width='80'></a>
+<h1 align="center">Hi, guys! <a href="#"><img align='right' src='https://i.redd.it/mowc7hjwx0pe1.gif' width='120'></a></h1>
+
 
 
 <p align="center">
